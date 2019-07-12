@@ -1,1 +1,1 @@
-FROM theiaide/theia
+FROM theiaide/theia:latest
